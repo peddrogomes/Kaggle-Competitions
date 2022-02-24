@@ -6,6 +6,8 @@ O desafio cosiste em prever as notas de cada matéria a partir dos microdados do
 
 * Na versão 1 foi utilizado uma regressão de Lasso para listar as features mais importantes e posteriormente fazer a regressão com elas.
 
+* Na versão 2 utilizamos um modelo para prever os melhores parametros para o Lasso.
+* 
 Equipe Ducks:
 - Victor Modesto
 - Romário Gomes
